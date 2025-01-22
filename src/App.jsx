@@ -6,7 +6,9 @@ function App() {
 
   return (
     <>
-      <div>Learning management system</div>
+      <h1 class="text-3xl font-bold underline">
+    Hello world!
+  </h1>
        
     </>
   )
